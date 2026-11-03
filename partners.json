@@ -1,0 +1,86 @@
+[
+  {
+    "id": "01",
+    "name": "BlackRock",
+    "group": "asset",
+    "profile": "BlackRock is a global asset management firm with capabilities across multi-asset investing, ETFs, investment research and risk management.",
+    "relationship": "The strategic collaboration between Citadel LLC Gold and BlackRock focuses on global investment-market research, asset allocation and the coordination of institutional financial resources.",
+    "areas": [
+      "Global investment-market research",
+      "Asset allocation",
+      "Institutional financial-resource coordination"
+    ],
+    "expertise": "Multi-asset investing, ETFs, investment research and risk management.",
+    "opportunity": "Align research priorities across global markets and explore how asset-allocation perspectives can inform the analysis of precious metals within a diversified investment framework."
+  },
+  {
+    "id": "02",
+    "name": "Vanguard",
+    "group": "asset",
+    "profile": "Vanguard is an international investment management firm with extensive experience in index funds, ETFs and long-term investing.",
+    "relationship": "Our strategic collaboration centers on long-term investment principles, diversified asset allocation and global financial-market research.",
+    "areas": [
+      "Long-term investment principles",
+      "Diversified asset allocation",
+      "Global financial-market research"
+    ],
+    "expertise": "Index funds, ETFs, cost-conscious asset management and long-term investment approaches.",
+    "opportunity": "Develop shared research priorities around long-term allocation, diversification and the role of gold across different investment horizons."
+  },
+  {
+    "id": "03",
+    "name": "Fidelity Investments",
+    "group": "asset",
+    "profile": "Fidelity Investments is a global investment management and financial services firm with capabilities in fund management, wealth management and investment research.",
+    "relationship": "The strategic collaboration between Citadel LLC Gold and Fidelity Investments supports coordinated development in financial-market research, asset management and professional financial services.",
+    "areas": [
+      "Financial-market research",
+      "Asset management",
+      "Professional financial services"
+    ],
+    "expertise": "Fund management, wealth management, investment research and financial services.",
+    "opportunity": "Coordinate research agendas across asset classes and connect wealth-management perspectives with gold-market analysis and long-term portfolio considerations."
+  },
+  {
+    "id": "04",
+    "name": "HSBC",
+    "group": "metals",
+    "profile": "HSBC is an international banking group and a participant in global precious metals markets, with experience in gold trading, precious metals services and international finance.",
+    "relationship": "Our strategic collaboration focuses on connecting international precious metals resources, gold-market research and related financial-service coordination.",
+    "areas": [
+      "International precious metals-market connectivity",
+      "Gold-market research",
+      "Related financial-service coordination"
+    ],
+    "expertise": "International banking, gold trading and precious metals-market services.",
+    "opportunity": "Establish coordinated research and market-resource priorities, with a focus on international gold-market developments and cross-regional financial-service collaboration."
+  },
+  {
+    "id": "05",
+    "name": "StoneX Group",
+    "group": "metals",
+    "profile": "StoneX Group is a global financial services organization with expertise in institutional trading, precious metals-market services, liquidity connectivity and risk management.",
+    "relationship": "The strategic collaboration between Citadel LLC Gold and StoneX Group focuses on spot gold-market services, institutional liquidity connectivity and precious metals financial solutions.",
+    "areas": [
+      "Spot gold-market services",
+      "Institutional liquidity connectivity",
+      "Precious metals financial solutions"
+    ],
+    "expertise": "Institutional trading, market liquidity, precious metals services and risk management.",
+    "opportunity": "Align spot gold-market service needs with institutional liquidity and risk-management considerations, while defining responsibilities within the agreed collaboration scope."
+  },
+  {
+    "id": "06",
+    "name": "LBMA",
+    "group": "metals",
+    "profile": "LBMA is an international precious metals-market association that supports market standards, quality assurance and the development of professional market practices.",
+    "relationship": "Our collaboration centers on international precious metals-market standards, industry exchange and professional market frameworks.",
+    "areas": [
+      "International precious metals-market standards",
+      "Industry exchange",
+      "Professional market frameworks"
+    ],
+    "expertise": "Precious metals-market standards, quality assurance and professional market practices.",
+    "opportunity": "Develop an exchange agenda around market standards and industry practices, and align internal research and governance processes with the agreed areas of cooperation."
+  }
+]

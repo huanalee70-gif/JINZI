@@ -1,0 +1,68 @@
+{
+  "en": {
+    "eyebrow": "CLIENT ELIGIBILITY & PRIVATE ACCESS POLICY",
+    "title": "Selective access.<br>Defined by rigorous standards.",
+    "intro": "A private, institutional service framework governed by eligibility verification, formal authorization and internal approval.",
+    "pillars": [
+      "Institutional Exclusivity",
+      "Selective Access",
+      "Confidentiality",
+      "Authorized Representation"
+    ],
+    "items": [
+      [
+        "01",
+        "Eligible client categories",
+        "Citadel LLC Gold provides services exclusively to eligible institutional clients and ultra-high-net-worth individuals whose verified net assets are equal to or greater than USD 50 million. Trading access is not offered to ordinary retail investors. Institutional eligibility is assessed separately under the requirements applicable to the proposed relationship."
+      ],
+      [
+        "02",
+        "Commercial threshold and regulatory status",
+        "The USD 50 million threshold is the company\u2019s internal commercial eligibility criterion for individual clients. It is not a statutory investor-qualification standard, a minimum investment commitment, or evidence that a person qualifies as an accredited, qualified, professional or other legally recognized investor. Any applicable statutory classification must be assessed independently. All services, admission decisions and transactions remain subject to applicable laws, regulatory requirements and jurisdictional restrictions."
+      ],
+      [
+        "03",
+        "No unsolicited solicitation or return commitments",
+        "The company does not solicit investments through unsolicited calls, private social-media accounts, instant-messaging applications or unauthorized third parties. No person is authorized to promise or guarantee an investment return on the company\u2019s behalf. This website and any preliminary discussion do not constitute an offer, a commitment to transact or an assurance of admission."
+      ],
+      [
+        "04",
+        "Verification and internal approval",
+        "Every prospective client must complete identity verification, asset-eligibility review, risk and suitability assessment, and the company\u2019s internal approval process before access may be granted. Meeting a financial threshold does not establish an entitlement to service. Admission remains subject to the outcome of these reviews, applicable legal requirements and the terms of the approved relationship."
+      ],
+      [
+        "05",
+        "Authorized introductions and representation",
+        "Only formally authorized internal personnel may, within their documented authority and the company\u2019s internal procedures, introduce prospective clients, provide professional assessments supporting their eligibility, or recommend admission. External intermediaries and unauthorized individuals have no authority to represent the company or promise trading eligibility. An internal introduction, professional endorsement or recommendation does not confer automatic access and cannot replace independent verification or approval. Such an endorsement is not a credit guarantee or a commitment to fund, insure or protect an investment."
+      ],
+      [
+        "06",
+        "Confidential handling and communication",
+        "Prospective-client information is handled on a need-to-know basis for eligibility review, due diligence and the administration of an approved relationship, subject to applicable privacy obligations and legally required disclosures. Confidentiality does not prevent lawful regulatory cooperation. Any purported invitation, endorsement or representation should be verified through the company\u2019s official contact channels before sensitive information is disclosed."
+      ]
+    ],
+    "processTitle": "An introduction begins a review. It does not complete one.",
+    "steps": [
+      [
+        "01",
+        "Identity verification"
+      ],
+      [
+        "02",
+        "Asset eligibility"
+      ],
+      [
+        "03",
+        "Risk & suitability"
+      ],
+      [
+        "04",
+        "Internal approval"
+      ]
+    ],
+    "thresholdLabel": "INDIVIDUAL NET-ASSET CRITERION",
+    "thresholdNote": "Verified net assets \u2265 USD 50 million. Internal commercial standard; not a statutory investor classification.",
+    "footer": "Admission is selective, independently reviewed and subject to applicable law. No guaranteed investment returns.",
+    "link": "VERIFY AN AUTHORIZED REPRESENTATIVE \u2197"
+  }
+}
